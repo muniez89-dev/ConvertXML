@@ -115,7 +115,7 @@ class PaymentRow:
     amount: Decimal
 
 
-# ✅ Header FINAL (sem NIF_FORNECEDOR)
+# Header FINAL (sem NIF_FORNECEDOR)
 CSV_HEADER = [
     "Nome_ORDENANTE",
     "NIF_ORDENANTE",
